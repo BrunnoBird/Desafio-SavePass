@@ -13,6 +13,12 @@
 <img src="https://img.shields.io/static/v1?label=React Native&message=0.63.4&color=7159c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=Expo&message=42.0.1&color=7159c1&style=for-the-badge&logo=ghost"/>
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/Screenshot_1626892767.png" width=200 />
+	  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/Screenshot_1626892772.png" width=200 />
+		  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/Screenshot_1626892758.png" width=200 />
+</h1>
+
 <h3 id="tecnologias">Tecnologias</h3>
 <li>React Native</li>
 <li>Expo</li>
